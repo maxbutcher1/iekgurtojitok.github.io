@@ -1,1 +1,0 @@
-# iekgurtogitok.github.io
