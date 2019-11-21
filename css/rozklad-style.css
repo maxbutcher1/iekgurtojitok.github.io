@@ -1,0 +1,15 @@
+.zaminu ul li a{
+	color: #000;
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.zaminu ul li a:hover{
+	color: #e0d619;
+	
+}
+
+.zaminu{
+	padding-left: 380px;
+}
