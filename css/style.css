@@ -31,16 +31,20 @@ li{
 .content{
 	width: 1300px;
 	margin: 0 auto;
+	position: relative;
 }
 
 .obshchaga_left{
 	float: left;
 	width: 1000px;
+
 }
 
 .sidebar{
 	float: left;
 	width: 300px;
+	height: 800px;
+
 }
 
 /********************HEADER******************************/
@@ -189,4 +193,24 @@ li{
     background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
     background: -o-linear-gradient(left,#ff8a00,#da1b60);
     background: linear-gradient(to right,#ff8a00,#da1b60);
+}
+
+
+
+
+/********************FOTER**********************/
+.footer{
+	position: relative;
+	clear: both;
+	height: 100px;
+	background-color: #ff8a00;
+}
+
+.footer_solid{
+	
+	
+	
+	top: 800px;
+	text-align: left;
+	margin: 0 auto;
 }
